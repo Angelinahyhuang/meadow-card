@@ -7,4 +7,4 @@ An interactive 3D business card: a floating patch of meadow you can drag and fli
 
 Built with [three.js](https://threejs.org/) — the grass is shell-textured (32 stacked layers), everything else is procedural. Single `index.html`, no build step.
 
-**Live:** https://YOUR-USERNAME.github.io/meadow-card/
+**Live:** https://angelinahyhuang.github.io/meadow-card/
